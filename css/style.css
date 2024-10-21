@@ -247,10 +247,12 @@
         margin-bottom: 20px;
         margin-left: 0; } }
     .top-banner__inner .top-banner__text p {
+      margin-top: 10px;
       margin-bottom: 42px;
       color: #777; }
       @media (max-width: 768px) {
         .top-banner__inner .top-banner__text p {
+          margin-top: 10px;
           margin-bottom: 25px;
           font-size: 14px; } }
   .top-banner__inner .top-banner__h2 {
